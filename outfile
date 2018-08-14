@@ -1,0 +1,2790 @@
+Enter Number of Depots :Enter X and Y Coordinates of Depots : Enter Demand of Depot : Enter X and Y Coordinates of Depots : Enter Demand of Depot : Enter Number of Customers : Enter X and Y Coordinates of Customer : Enter Earliest Time and Latest Time of Customer Enter Customer Demand : Enter Priority of Customer :  Enter X and Y Coordinates of Customer : Enter Earliest Time and Latest Time of Customer Enter Customer Demand : Enter Priority of Customer :  Enter X and Y Coordinates of Customer : Enter Earliest Time and Latest Time of Customer Enter Customer Demand : Enter Priority of Customer :  Enter X and Y Coordinates of Customer : Enter Earliest Time and Latest Time of Customer Enter Customer Demand : Enter Priority of Customer :  
+*****ERROR LIMIT 0
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 6.324555
+Total distance  for Depot 0 : 6.324555
+Total Error : 6.324555
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 12.6491
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 2.000000
+Total distance  for Depot 1 : 2.000000
+Total Error : 2.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 4
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 16.970562
+Total distance  for Depot 2 : 11.313708
+Total Error : 16.970562
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 28.2843
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 4.242640
+Total distance  for Depot 3 : 8.485281
+Total Error : 4.242640
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 12.7279
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 6.324555
+Total distance  for Depot 0 : 6.324555
+Total Error : 6.324555
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 12.6491
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 16.970562
+Total distance  for Depot 1 : 11.313708
+Total Error : 16.970562
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 28.2843
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 2.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 2.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 4
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 4.242640
+Total distance  for Depot 3 : 8.485281
+Total Error : 4.242640
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 12.7279
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 6.324555
+Total distance  for Depot 0 : 6.324555
+Total Error : 6.324555
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 12.6491
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 16.970562
+Total distance  for Depot 1 : 11.313708
+Total Error : 16.970562
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 28.2843
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 2.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 2.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 4
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 4.242640
+Total distance  for Depot 3 : 8.485281
+Total Error : 4.242640
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 12.7279
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 10
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 20
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 30
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 40
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 50
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 60
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 70
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 80
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+
+*****ERROR LIMIT 90
+
+
+
+EarliestAndLatest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Priority : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+
+
+Latest : 
+For number of vehicles 1 : 
+Clusters formed:
+1:  (-1 -3)
+Routes found by beam search 
+Check here: 3.162278
+-1
+3.162278
+Cluster: 1
+(0 0) (-1 -3) (0 0) 
+Dist : 6.324555
+Total distance : 6.324555
+Routes found after local search 
+hereCluster: 1
+(0 0) (-1 -3) (0 0) Dist : 6.324555
+Error : 0.000000
+Total distance  for Depot 0 : 6.324555
+Total Error : 0.000000
+--------------------------------------------
+For Depot 0: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 6.32456
+For number of vehicles 1 : 
+Clusters formed:
+1:  (4 4)
+Routes found by beam search 
+Check here: 5.656854
+4
+5.656854
+Cluster: 1
+(0 0) (4 4) (0 0) 
+Dist : 11.313708
+Total distance : 11.313708
+Routes found after local search 
+hereCluster: 1
+(0 0) (4 4) (0 0) Dist : 11.313708
+Error : 0.000000
+Total distance  for Depot 1 : 11.313708
+Total Error : 0.000000
+--------------------------------------------
+For Depot 1: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 11.3137
+For number of vehicles 1 : 
+Clusters formed:
+1:  (1 0)
+Routes found by beam search 
+Check here: 1.000000
+1
+1.000000
+Cluster: 1
+(0 0) (1 0) (0 0) 
+Dist : 2.000000
+Total distance : 2.000000
+Routes found after local search 
+hereCluster: 1
+(0 0) (1 0) (0 0) Dist : 2.000000
+Error : 0.000000
+Total distance  for Depot 2 : 2.000000
+Total Error : 0.000000
+--------------------------------------------
+For Depot 2: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 2
+For number of vehicles 1 : 
+Clusters formed:
+1:  (3 3)
+Routes found by beam search 
+Check here: 4.242640
+3
+4.242640
+Cluster: 1
+(0 0) (3 3) (0 0) 
+Dist : 8.485281
+Total distance : 8.485281
+Routes found after local search 
+hereCluster: 1
+(0 0) (3 3) (0 0) Dist : 8.485281
+Error : 0.000000
+Total distance  for Depot 3 : 8.485281
+Total Error : 0.000000
+--------------------------------------------
+For Depot 3: Best solution 
+ Number of Vehicles : 1
+ Minimum Heuristic Value  : 8.48528
+Earliest and Latest 
+---------------------------------------
+Total Number of Vehicles :4
+Total Distance :28.1235
+---------------------------------------
+Priority 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
+Latest 
+---------------------------------------
+Total Number of Vehicles : 4
+Total Distance :28.1235
+---------------------------------------
